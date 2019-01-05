@@ -1,0 +1,1 @@
+web: gunicorn american_drama_bot.wsgi
